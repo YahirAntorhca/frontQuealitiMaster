@@ -1,0 +1,71 @@
+
+.email {
+    color: white;
+    font-size: 18px;
+    width: 476px;
+    height: 89px;
+  }
+  .password {
+
+ 
+    width: 476px;
+    height: 89px;
+    background: #BC9F9F42;
+    border-radius: 20px;
+  }
+
+
+  .fondo {
+    background: linear-gradient(to right, #011D26, #032938);
+  }
+   .letras{
+
+color: #B1B1B1A3;
+   }
+
+
+   .cuadro{
+
+    background: #BC9F9F42;
+border-radius: 20px;
+position: relative;
+   }
+
+   .contenedor{
+
+    float: right;
+    margin-top: 200px;
+   }
+
+   .botton{
+    width: 219px;
+    height: 50px;
+    top: 621px;
+    left: 945px;
+    border-radius: 20px;
+    
+    background: #00000063;
+
+    float: none;
+   }
+   .margen{
+
+    background: linear-gradient(0deg, #000000, #000000);
+   }
+   .imagen{
+    padding: 50px ;
+    width: 646px;
+    height: 600px;
+    top: 13px;
+    left: 74px;
+    
+
+
+   }
+
+   *{
+
+
+background-color:linear-gradient(to right, #011D26, #032938) ;
+
+   }
